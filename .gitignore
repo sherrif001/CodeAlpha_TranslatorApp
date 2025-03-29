@@ -1,0 +1,13 @@
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore AppData temporary files
+AppData/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore other common directories
+*.log
